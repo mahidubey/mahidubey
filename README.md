@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahidubey&label=Profile%20views&color=0e75b6&style=flat" alt="mahidubey" /> </p>
 
-- 🌱 I’m currently learning **Frontend Developing**
+- 🌱 I am currently pursuing my undergraduate degree while actively learning frontend development and data analysis.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
