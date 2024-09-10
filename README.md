@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahi Dubey</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a dedicated frontend developer and data analytics enthusiast from India. I have a deep love for crafting engaging web experiences and leveraging data to drive insightful decision-making. My expertise lies in combining creativity with analytical skills to build dynamic and user-friendly web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahidubey&label=Profile%20views&color=0e75b6&style=flat" alt="mahidubey" /> </p>
 
